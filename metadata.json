@@ -1,0 +1,5 @@
+{
+  "name": "Foosball Master IA",
+  "description": "Juego de futbolín (taca-taca) arcade contra la IA. Controla tus jugadores girando las barras para golpear el balón. El mejor de 10 pelotas gana.",
+  "requestFramePermissions": []
+}
